@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Franco Martin Paturlanne</h1>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<!--
-**paturlannefm/paturlannefm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working independently. However, I'm actively seeking opportunities for employment with companies where I can apply my skills and experience..
+- 🌱 I’m currently learning **Jest and React Testing Library**
+- 📫 How to reach me: **paturlannefm@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/franco-martin-paturlanne/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="franco-paturlanne" height="30" width="40" /></a>
+<a href="https://www.instagram.com/paturlanne_f/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paturlannefranco_" height="30" width="40" /></a>
+</p>

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Martin Paturlanne</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I'm currently working independently. However, I'm actively seeking opportunities for employment with companies where I can apply my skills and experience..
-- 🌱 I’m currently learning **Jest and React Testing Library**
+- 🔭 I'm currently working at Fedea SA.
 - 📫 How to reach me: **paturlannefm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
